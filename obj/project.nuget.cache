@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sMRaGYlyq15G8ERG2q5tgLL6h1rATWjD2x2adWwYZCXcHQIxg1MNGRXOtvzxZ97uCcov5Nciu74uH+Jbi2PFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KARPGINEX\\source\\repos\\XsollaProject\\XsollaProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KARPGINEX\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KARPGINEX\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\KARPGINEX\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\KARPGINEX\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\KARPGINEX\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

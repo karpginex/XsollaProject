@@ -1,0 +1,15 @@
+C:\Users\KARPGINEX\source\repos\XsollaProject\bin\Debug\netcoreapp3.1\XsollaProject.exe
+C:\Users\KARPGINEX\source\repos\XsollaProject\obj\Debug\netcoreapp3.1\XsollaProject.csprojAssemblyReference.cache
+C:\Users\KARPGINEX\source\repos\XsollaProject\obj\Debug\netcoreapp3.1\XsollaProject.AssemblyInfoInputs.cache
+C:\Users\KARPGINEX\source\repos\XsollaProject\obj\Debug\netcoreapp3.1\XsollaProject.AssemblyInfo.cs
+C:\Users\KARPGINEX\source\repos\XsollaProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KARPGINEX\source\repos\XsollaProject\obj\Debug\netcoreapp3.1\XsollaProject.csproj.CopyComplete
+C:\Users\KARPGINEX\source\repos\XsollaProject\bin\Debug\netcoreapp3.1\XsollaProject.deps.json
+C:\Users\KARPGINEX\source\repos\XsollaProject\bin\Debug\netcoreapp3.1\XsollaProject.runtimeconfig.json
+C:\Users\KARPGINEX\source\repos\XsollaProject\bin\Debug\netcoreapp3.1\XsollaProject.runtimeconfig.dev.json
+C:\Users\KARPGINEX\source\repos\XsollaProject\bin\Debug\netcoreapp3.1\XsollaProject.dll
+C:\Users\KARPGINEX\source\repos\XsollaProject\bin\Debug\netcoreapp3.1\XsollaProject.pdb
+C:\Users\KARPGINEX\source\repos\XsollaProject\obj\Debug\netcoreapp3.1\XsollaProject.csproj.CoreCompileInputs.cache
+C:\Users\KARPGINEX\source\repos\XsollaProject\obj\Debug\netcoreapp3.1\XsollaProject.dll
+C:\Users\KARPGINEX\source\repos\XsollaProject\obj\Debug\netcoreapp3.1\XsollaProject.pdb
+C:\Users\KARPGINEX\source\repos\XsollaProject\obj\Debug\netcoreapp3.1\XsollaProject.genruntimeconfig.cache
